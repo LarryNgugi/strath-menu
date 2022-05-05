@@ -1,0 +1,21 @@
+***********WELCOME TO STRATH CAFE***********
+
+--------------------------------------------
+
+Item		Quantity	Amount
+
+Rice		3		150
+Chapati		4		160
+Beef		2		300
+Beans		3		60
+Juice		4		280
+
+--------------------------------------------
+
+
+Total: Ksh 890
+You were served by: BeyonceKnowles
+Wed Apr 27 23:44:38 2022
+
+
+--------------------------------------------
