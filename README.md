@@ -1,2 +1,2 @@
 # strath-menu
-This repository is a catering system that generates receipts for clients.
+This is a basic receipt generator in c++.
